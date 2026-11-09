@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Akshith Pochampalli 👋
 
-<!--
-**Akshith7-git/Akshith7-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year B.Tech CSE (Data Science) student | Aspiring Software Engineer & Data Engineer**
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Full-stack web apps and data engineering projects
+- Improving Python, SQL, DSA, and backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- **Languages:** Python, Java, SQL, JavaScript
+- **Web:** React.js, Node.js, Express.js, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data:** Pandas, NumPy, Power BI
+- **Tools:** Git, GitHub, Postman
+
+## 📫 Contact
+- LinkedIn: [Akshith Pochampalli](https://www.linkedin.com/in/akshithpochampalli)
+- Email: a.akshith.career@gmail.com
