@@ -48,10 +48,10 @@
 
 ## 🚀 Featured Projects
 
-<!-- Update the link below to the exact repository URL of your project -->
-### 🛒 E-commerce Data Analytics
+### 🛒 E-Commerce Customer Analysis
+- **Description:** Analyzes e-commerce customer data using Python to clean the data, explore patterns, and present findings through visualizations. <!-- Edit this line to add your real findings, e.g. top products, customer behavior -->
 - **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
-- 🔗 **GitHub:** [View Project]https://github.com/Akshith7-git/E-Commerce-Customer-Analysis.git
+- 🔗 **GitHub:** [View Project](https://github.com/Akshith7-git/E-Commerce-Customer-Analysis)
 
 <!-- To add more projects, copy the block above and paste it below -->
 
@@ -59,11 +59,11 @@
 
 ## 📈 GitHub Stats
 
+<!-- Change theme=tokyonight to: dark, radical, merko, gruvbox, etc. -->
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Akshith7-git?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github)
-![Top Language](https://img.shields.io/github/languages/top/Akshith7-git/Akshith7-git?style=for-the-badge)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Akshith7-git&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshith7-git&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
