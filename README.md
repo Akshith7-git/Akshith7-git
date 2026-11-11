@@ -51,7 +51,7 @@
 <!-- Update the link below to the exact repository URL of your project -->
 ### 🛒 E-commerce Data Analytics
 - **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
-- 🔗 **GitHub:** [View Project](https://github.com/Akshith7-git)
+- 🔗 **GitHub:** [View Project]https://github.com/Akshith7-git/E-Commerce-Customer-Analysis.git
 
 <!-- To add more projects, copy the block above and paste it below -->
 
