@@ -59,11 +59,11 @@
 
 ## 📈 GitHub Stats
 
-<!-- Change theme=tokyonight to: dark, radical, merko, gruvbox, etc. -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Akshith7-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshith7-git&layout=compact&theme=tokyonight&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/Akshith7-git?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/Akshith7-git/Akshith7-git?style=for-the-badge)
 
 </div>
 
